@@ -1,0 +1,2 @@
+# SIC2
+estadías
