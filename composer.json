@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "ext-gd": "*",
+        "luecano/numero-a-letras": "^3.0"
+    }
+}

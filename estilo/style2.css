@@ -1,0 +1,137 @@
+.usuario{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(126, 243, 233, 0.493);
+    padding: 10px;
+}
+
+.datos{
+width: 20em ;
+height: 3em ; 
+border-radius: 10px;
+border: 1px solid black;
+margin-top: 10px;
+
+
+
+}
+.gridGenerar .respuesta{
+ 
+    width: 40em;
+    margin: auto;
+    background-color: rgba(202, 198, 198, 0.753);
+    height: max-content;
+    border-radius: 20px;
+    height:50 em ;
+}
+
+
+.gridGenerar{
+    
+    display: grid;
+    grid-template-columns: 40em 70em;
+   
+}
+
+.gridGenerar .grida2{
+align-content: center;
+position: sticky;
+top: 8em;
+
+width: 60em;
+height: 45em;
+}
+
+.gridGenerar2{
+    
+    display: grid;
+    grid-template-columns: 60em 40em;
+   
+}
+
+.gridGenerar2 .grida22{
+align-content: center;
+position: sticky;
+top: 8em;
+
+width: 40em;
+height: 45em;
+}
+h4{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100, 100, 100);
+}
+
+
+.respuestas{
+    color: black;
+    margin-top:10px;
+    background-color: rgba(181, 255, 233, 0.493);
+}
+
+.trabajar{
+    margin-top: -5px;
+    width: max-content;
+    border: none;
+    height: max-content;
+    font-size: 25px;
+    color: black;
+    background-color: rgba(142, 210, 250, 0.705);
+    
+padding: 10px;
+
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif  ;
+    margin-bottom: -10px;
+
+
+}
+
+.textarea{
+    width: 37em;
+    height: 8em;
+    border-radius: 10px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: .5em ;   
+    padding: 5px;
+    border:1px solid black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+    padding: 10px;
+  }
+  .grid-item {
+    
+   
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+
+.grid-oficios{
+display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+    padding: 10px;
+
+}
+ .grid-item-oficio {
+    
+   
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
